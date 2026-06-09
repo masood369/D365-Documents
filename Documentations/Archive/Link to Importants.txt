@@ -1,0 +1,92 @@
+https://exploredynamics365.home.blog/author/saurabhd365hotmailcom/ - All articles 
+
+
+
+https://www.linkedin.com/pulse/vendor-prepayment-invoice-prepayments-settlement-microsoft-khan/
+
+https://www.linkedin.com/pulse/what-main-accounts-financial-dimensions-d365fo-ax-hylke-britstra-s5sce/?trackingId=wX4DuiBrRgSPgHBPdPkcDA%3D%3D 
+
+FINANCIAL REPORTING IN D365
+
+https://www.youtube.com/watch?v=8wlaVe50Qd4&t=155s
+https://www.youtube.com/watch?v=AItgn_YIBkg
+https://www.youtube.com/watch?v=8wlaVe50Qd4&list=PLFSag4twLTk9e16e4amIvUpdJsYdHfPKA&index=90
+
+https://www.youtube.com/watch?v=AItgn_YIBkg&t=50s
+https://www.youtube.com/watch?v=N-5kif6Q_CU
+
+__________________________
+
+Budgeting 
+_____________
+https://www.linkedin.com/pulse/budgeting-microsoft-dynamics-365-fo-talal-ahmed-raza/
+
+https://www.linkedin.com/pulse/budget-planning-muhammad-ammar-ali-xg6jf/?trackingId=9U41YcttQUSc72yOvI1Z7g%3D%3D 
+https://intellidax.net/2024/10/21/budgeting-configuration-in-d365/
+https://www.linkedin.com/pulse/budget-revision-transfer-perform-checking-purchase-order-raza-s70hf/
+
+https://www.linkedin.com/pulse/budget-planning-muhammad-ammar-ali-xg6jf/?trackingId=P%2BRJqWYCRcmwpIOMZBYEtg%3D%3D
+
+
+
+Inventory Valuation
+_________________________
+https://www.linkedin.com/pulse/inventory-valuation-d365fo-ax-running-average-cost-price-britstra?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+https://www.linkedin.com/pulse/how-all-inventory-models-d365-ax-calculated-hylke-britstra-yx6qe/ 
+https://www.linkedin.com/feed/update/urn:li:activity:7261751684647862272/
+
+https://www.linkedin.com/feed/update/urn:li:activity:7261751684647862272/
+
+
+Advance Bank Reconcillation 
+_______________________________
+
+https://youtu.be/qx808xsGRd8?si=CDEA28ErgqdPowg4
+https://intellidax.net/2024/10/17/advance-bank-reconciliation-setup-part-1/
+https://intellidax.net/2024/10/22/advance-bank-reconciliation-clear-reversal-entries-part-2/
+
+https://www.linkedin.com/pulse/d365fo-modern-bank-reconciliation-ga-version-10041-youkam-nono-xzdbe/
+
+
+_______________________________________
+
+https://dynfotech.com/2024/06/17/business-documents-part-1/ - Business Documents-Electronic Reporting Tool in D365
+
+https://www.linkedin.com/pulse/importing-bank-statements-through-data-management-using-sagheer-jurnc/?trackingId=yfER4iaDssXQI%2BB%2F2YuQZg%3D%3D BANK STATEMENT EXPORT IN EXCEL
+
+https://www.linkedin.com/pulse/data-export-d365fo-jonas-kristensen-qquuf/ (Data Export also one saved article in LinkedIn)
+https://anthonyblake.github.io/d365/finance/sysadmin/2024/10/29/d365-sysadmin-er-config-import-security.html (Dynamics 365 Finance: Import Electronic Reporting Configuration from Dataverse)
+
+https://youtu.be/R9BGinI3hxY - Financial Consolidation Template
+
+INVOICE AUTOMATION 
+_______________________________
+
+https://www.youtube.com/watch?v=U-7ufIkg2Hc
+https://www.linkedin.com/pulse/vendor-invoice-automationinvoice-capture-mallesh-varma-9phfc?utm_source=share&utm_medium=member_android&utm_campaign=share_via  - Vendor Invoice Automation
+https://www.linkedin.com/pulse/dynamics-365-supplier-invoice-processing-automation-mwangunga-vjcle/?trackingId=JJOCKIg0TES%2FNZWF%2FwfRwg%3D%3D
+
+https://finopspowerplatformtips.com/ocr-invoice-capture-in-dynamics-365-finance-how-to-set-it-up-how-does-it-work-606391895831 - Setup OCR with finance  - 
+
+https://www.linkedin.com/pulse/vendor-invoice-automationinvoice-capture-mallesh-varma-9phfc/ - Invoice Capture
+https://www.linkedin.com/pulse/automated-ocr-invoice-capture-d365-finance-scm-damir-cengic-xa1hf/
+https://intellidax.net/2024/10/29/invoice-capture-solution/
+______________________
+
+https://www.youtube.com/watch?v=Ytr8dS7QVZo&list=PLFSag4twLTk9e16e4amIvUpdJsYdHfPKA&index=3   - How Dataverse and Microsoft Fabric powers Dynamics 365 insights 
+
+https://dynamicspedia.com/2020/05/move-all-user-and-security-settings-with-data-entities/ (Move Users with secuirty roles and data)
+
+Business Proceess catalogue 
+________________________________
+https://www.linkedin.com/posts/andriesklumpenaar_bizappsmsnl-dynamics365-businessprocesscatalog-activity-7265630199080226816-8s6J?utm_source=share&utm_medium=member_android
+
+https://www.linkedin.com/posts/henrikmarx_d365fo-activity-7265461025246740480-b99F?utm_source=share&utm_medium=member_android
+
+https://www.linkedin.com/posts/rachelprofitt_microsoft-businessprocesscatalog-dynamics365-activity-7265456224890953732-AHGe?utm_source=share&utm_medium=member_android
+
+__________________
+
+
+
+ 
